@@ -1,4 +1,4 @@
-# VB.NET-Serial-Communication
+# VB.NET Serial Communication
 
 Project ini merupakan contoh software komunikasi serial yang dibuat di Visual Studio 2013. Project ini dapat digunakan pada komunikasi mikrokontroler dengan Visual Basic .NET.
 
