@@ -1,0 +1,24 @@
+c:\users\akbar\documents\visual studio 2013\Projects\Komunikasi Serial\Komunikasi Serial\bin\Debug\Komunikasi Serial.exe.config
+c:\users\akbar\documents\visual studio 2013\Projects\Komunikasi Serial\Komunikasi Serial\bin\Debug\Komunikasi Serial.exe
+c:\users\akbar\documents\visual studio 2013\Projects\Komunikasi Serial\Komunikasi Serial\bin\Debug\Komunikasi Serial.pdb
+c:\users\akbar\documents\visual studio 2013\Projects\Komunikasi Serial\Komunikasi Serial\bin\Debug\Komunikasi Serial.xml
+c:\users\akbar\documents\visual studio 2013\Projects\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi_Serial.Form1.resources
+c:\users\akbar\documents\visual studio 2013\Projects\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi_Serial.Resources.resources
+c:\users\akbar\documents\visual studio 2013\Projects\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.vbproj.GenerateResource.Cache
+c:\users\akbar\documents\visual studio 2013\Projects\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.exe
+c:\users\akbar\documents\visual studio 2013\Projects\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.xml
+c:\users\akbar\documents\visual studio 2013\Projects\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.pdb
+H:\dataku\Visual Studio Project\Komunikasi Serial\Komunikasi Serial\bin\Debug\Komunikasi Serial.exe.config
+H:\dataku\Visual Studio Project\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.exe
+H:\dataku\Visual Studio Project\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.xml
+H:\dataku\Visual Studio Project\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.pdb
+H:\dataku\Visual Studio Project\Komunikasi Serial\Komunikasi Serial\bin\Debug\Komunikasi Serial.exe
+H:\dataku\Visual Studio Project\Komunikasi Serial\Komunikasi Serial\bin\Debug\Komunikasi Serial.pdb
+H:\dataku\Visual Studio Project\Komunikasi Serial\Komunikasi Serial\bin\Debug\Komunikasi Serial.xml
+H:\dataku\Visual Studio Project\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi_Serial.Form1.resources
+H:\dataku\Visual Studio Project\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi_Serial.Resources.resources
+H:\dataku\Visual Studio Project\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.vbproj.GenerateResource.Cache
+D:\git\Komunikasi Serial\Komunikasi Serial\bin\Debug\Komunikasi Serial.exe.config
+D:\git\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.exe
+D:\git\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.xml
+D:\git\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.pdb
