@@ -22,3 +22,7 @@ D:\git\Komunikasi Serial\Komunikasi Serial\bin\Debug\Komunikasi Serial.exe.confi
 D:\git\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.exe
 D:\git\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.xml
 D:\git\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.pdb
+D:\git\VB.NET-Serial-Communication\Komunikasi Serial\Komunikasi Serial\bin\Debug\Komunikasi Serial.exe.config
+D:\git\VB.NET-Serial-Communication\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.exe
+D:\git\VB.NET-Serial-Communication\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.xml
+D:\git\VB.NET-Serial-Communication\Komunikasi Serial\Komunikasi Serial\obj\Debug\Komunikasi Serial.pdb

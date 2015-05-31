@@ -1,0 +1,10 @@
+D:\git\VB.NET-Serial-Communication\Komunikasi Serial\Komunikasi Serial\bin\x86\Debug\Komunikasi Serial.exe.config
+D:\git\VB.NET-Serial-Communication\Komunikasi Serial\Komunikasi Serial\bin\x86\Debug\Komunikasi Serial.exe
+D:\git\VB.NET-Serial-Communication\Komunikasi Serial\Komunikasi Serial\bin\x86\Debug\Komunikasi Serial.pdb
+D:\git\VB.NET-Serial-Communication\Komunikasi Serial\Komunikasi Serial\bin\x86\Debug\Komunikasi Serial.xml
+D:\git\VB.NET-Serial-Communication\Komunikasi Serial\Komunikasi Serial\obj\x86\Debug\Komunikasi_Serial.Form1.resources
+D:\git\VB.NET-Serial-Communication\Komunikasi Serial\Komunikasi Serial\obj\x86\Debug\Komunikasi_Serial.Resources.resources
+D:\git\VB.NET-Serial-Communication\Komunikasi Serial\Komunikasi Serial\obj\x86\Debug\Komunikasi Serial.vbproj.GenerateResource.Cache
+D:\git\VB.NET-Serial-Communication\Komunikasi Serial\Komunikasi Serial\obj\x86\Debug\Komunikasi Serial.exe
+D:\git\VB.NET-Serial-Communication\Komunikasi Serial\Komunikasi Serial\obj\x86\Debug\Komunikasi Serial.xml
+D:\git\VB.NET-Serial-Communication\Komunikasi Serial\Komunikasi Serial\obj\x86\Debug\Komunikasi Serial.pdb
