@@ -32,13 +32,22 @@
         SerialPort1.Close()
     End Sub
 
-    Private Sub TextBox4_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox4.KeyPress
-        SerialPort1.WriteLine(TextBox4.Text)
+    Private Sub TextBox4_KeyDown(sender As Object, e As KeyEventArgs) Handles TextBox4.KeyDown
+        If e.KeyCode = Keys.Enter Then
+            Try
+                SerialPort1.WriteLine(TextBox4.Text)
+            Catch ex As Exception
+                MsgBox("Pastikan Koneksi Anda Benar !!!", MsgBoxStyle.Exclamation, "Peringatan")
+            End Try
+        End If
     End Sub
 
-    
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
-        SerialPort1.WriteLine(TextBox4.Text)
+        Try
+            SerialPort1.WriteLine(TextBox4.Text)
+        Catch ex As Exception
+            MsgBox("Pastikan Koneksi Anda Benar !!!", MsgBoxStyle.Exclamation, "Peringatan")
+        End Try
     End Sub
 
 
